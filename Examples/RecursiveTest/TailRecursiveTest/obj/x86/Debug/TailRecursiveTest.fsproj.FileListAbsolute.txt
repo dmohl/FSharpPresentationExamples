@@ -1,0 +1,6 @@
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\bin\Debug\TailRecursiveTest.XML
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\bin\Debug\TailRecursiveTest.exe
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\bin\Debug\TailRecursiveTest.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\TailRecursiveTest.exe
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\TailRecursiveTest.pdb

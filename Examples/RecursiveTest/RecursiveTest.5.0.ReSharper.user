@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="751" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="319" fromTop="9" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="319" fromTop="9" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="0" fromTop="0" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="319" fromTop="1" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="718" fromTop="9" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="350" fromTop="3" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="350" fromTop="8" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="749" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
