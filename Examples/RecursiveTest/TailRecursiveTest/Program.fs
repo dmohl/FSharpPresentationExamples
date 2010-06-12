@@ -1,12 +1,11 @@
 ﻿open System
 
-// ------- Not Tail Recursive
-let nums = LazyList.ofSeq <| seq {99999999L..999999999L}
-let rec sumOfRange (nums:LazyList<int64>) =
+// ------- Tail Recursive
+let numsTailRecursive = LazyList.ofSeq <| seq {999999990L..999999999L}
+let rec sumOfRangeTailRecursive (nums:LazyList<int64>) acc =
     match nums with
-    | LazyList.Cons(number, rest) -> number + sumOfRange rest
-    | LazyList.Nil -> 0L
+    | LazyList.Cons(number, rest) -> sumOfRangeTailRecursive rest (number + acc)
+    | LazyList.Nil -> acc
 
-do printf "Total = %A" (sumOfRange nums)
+do printf "Total = %A" (sumOfRangeTailRecursive numsTailRecursive 0L)
 do Console.ReadLine() |> ignore
-
