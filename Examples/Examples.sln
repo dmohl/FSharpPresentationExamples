@@ -37,13 +37,13 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TailRecursiveTest", "Recurs
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebSharper", "WebSharper", "{6CFE5E0E-5E08-426F-AA95-B24142FB056F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebSharperSample\WebSharperSample\WebApplication\WebApplication.csproj", "{D9754244-0ECB-4437-9CC6-C415D18AADED}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WebSharperProject", "WebSharperSample\WebSharperSample\WebSharperProject\WebSharperProject.fsproj", "{C4E3CD76-5618-421C-A187-95EB0D51B133}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XMLParser", "XMLParser", "{7226F057-49AE-4BC4-A5B8-8271B43F00B3}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "XmlParser", "XmlParser\XmlParser.fsproj", "{8B642BBC-4538-45CF-933D-4D72E8CB3A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebSharperSample\WebSharperSample\WebApplication\WebApplication.csproj", "{D9754244-0ECB-4437-9CC6-C415D18AADED}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WebSharperProject", "WebSharperSample\WebSharperSample\WebSharperProject\WebSharperProject.fsproj", "{C4E3CD76-5618-421C-A187-95EB0D51B133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,6 +175,16 @@ Global
 		{D521BDA8-6A58-47B0-ACE9-A41C1B850B3C}.Release|Mixed Platforms.Build.0 = Release|x86
 		{D521BDA8-6A58-47B0-ACE9-A41C1B850B3C}.Release|x86.ActiveCfg = Release|x86
 		{D521BDA8-6A58-47B0-ACE9-A41C1B850B3C}.Release|x86.Build.0 = Release|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|x86.ActiveCfg = Debug|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|x86.Build.0 = Debug|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|Any CPU.ActiveCfg = Release|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|x86.ActiveCfg = Release|x86
+		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|x86.Build.0 = Release|x86
 		{D9754244-0ECB-4437-9CC6-C415D18AADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D9754244-0ECB-4437-9CC6-C415D18AADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9754244-0ECB-4437-9CC6-C415D18AADED}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -195,16 +205,6 @@ Global
 		{C4E3CD76-5618-421C-A187-95EB0D51B133}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C4E3CD76-5618-421C-A187-95EB0D51B133}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C4E3CD76-5618-421C-A187-95EB0D51B133}.Release|x86.ActiveCfg = Release|Any CPU
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|x86.ActiveCfg = Debug|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Debug|x86.Build.0 = Debug|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|Any CPU.ActiveCfg = Release|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|Mixed Platforms.Build.0 = Release|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|x86.ActiveCfg = Release|x86
-		{8B642BBC-4538-45CF-933D-4D72E8CB3A31}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,3 +4,9 @@ C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examp
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\TailRecursiveTest.exe
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\TailRecursiveTest.pdb
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\TailRecursiveTest\bin\Debug\TailRecursiveTest.XML
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\TailRecursiveTest\bin\Debug\TailRecursiveTest.exe
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\TailRecursiveTest\bin\Debug\TailRecursiveTest.pdb
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\TailRecursiveTest.exe
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\TailRecursiveTest\obj\x86\Debug\TailRecursiveTest.pdb

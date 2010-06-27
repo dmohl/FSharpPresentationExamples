@@ -10,3 +10,9 @@ C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examp
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\RecursiveTest\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\RecursiveTest\obj\x86\Debug\RecursiveTest.exe
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\RecursiveTest\RecursiveTest\obj\x86\Debug\RecursiveTest.pdb
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\RecursiveTest\bin\Debug\RecursiveTest.XML
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\RecursiveTest\bin\Debug\RecursiveTest.exe
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\RecursiveTest\bin\Debug\RecursiveTest.pdb
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\RecursiveTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\RecursiveTest\obj\x86\Debug\RecursiveTest.exe
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\RecursiveTest\RecursiveTest\obj\x86\Debug\RecursiveTest.pdb

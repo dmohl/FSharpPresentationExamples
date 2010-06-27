@@ -1,7 +1,7 @@
 ﻿open System
 
 // ------- Tail Recursive
-let numsTailRecursive = LazyList.ofSeq <| seq {999999990L..999999999L}
+let numsTailRecursive = LazyList.ofSeq <| seq {999000000L..999999999L}
 let rec sumOfRangeTailRecursive (nums:LazyList<int64>) acc =
     match nums with
     | LazyList.Cons(number, rest) -> sumOfRangeTailRecursive rest (number + acc)

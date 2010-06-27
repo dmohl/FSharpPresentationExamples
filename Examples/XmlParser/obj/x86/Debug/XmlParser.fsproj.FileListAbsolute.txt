@@ -4,3 +4,9 @@ C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examp
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\XmlParser\bin\Debug\XmlParser.pdb
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\XmlParser\obj\x86\Debug\XmlParser.exe
 C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\XmlParser\obj\x86\Debug\XmlParser.pdb
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\XmlParser\bin\Debug\XmlParser.XML
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\XmlParser\bin\Debug\XmlParser.exe
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\XmlParser\bin\Debug\XmlParser.pdb
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\XmlParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\XmlParser\obj\x86\Debug\XmlParser.exe
+C:\Dan\Presentations\FSharpPresentationExamples\Examples\XmlParser\obj\x86\Debug\XmlParser.pdb
