@@ -20,12 +20,12 @@ let getDoc() =
     let temp = new XmlDocument()
     let text = "
         <fruit>
-            <apples>
-                <gannySmiths>1</gannySmiths>
-                <coxsOrangePippin>3</coxsOrangePippin>
-            </apples>
-            <organges>2</organges>
-            <bananas>4</bananas>
+        <apples>
+        <gannySmiths>1</gannySmiths>
+        <coxsOrangePippin>3</coxsOrangePippin>
+        </apples>
+        <organges>2</organges>
+        <bananas>4</bananas>
         </fruit>"
     temp.LoadXml(text)
     temp

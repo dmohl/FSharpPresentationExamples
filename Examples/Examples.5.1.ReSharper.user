@@ -9,36 +9,39 @@
   <RecentFiles>
     <RecentFiles>
       <File id="5B62A6CF-7854-4EBC-BAB9-1A9A85F3F261/f:FSharpCouchIntegrationTests.fs" caret="1648" fromTop="15" />
-      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="0" fromTop="0" />
       <File id="09E1A33E-8FBB-4447-8E6C-7AB49A817808/f:ChordServer.fs" caret="0" fromTop="0" />
-      <File id="D2082633-68CA-4C7E-9CF7-7CA94CF86ACE/f:FSharpIoC.fs" caret="1121" fromTop="22" />
-      <File id="DA30BCAB-D6BD-4508-8C2A-FD6246766A29/f:FSharpCouch.fs" caret="2225" fromTop="32" />
-      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="1753" fromTop="6" />
-      <File id="D521BDA8-6A58-47B0-ACE9-A41C1B850B3C/f:Program.fs" caret="256" fromTop="5" />
-      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="337" fromTop="14" />
-      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="683" fromTop="21" />
-      <File id="09E1A33E-8FBB-4447-8E6C-7AB49A817808/f:ChordClient.fs" caret="2366" fromTop="49" />
       <File id="D60E704B-7D74-41FF-98B5-E0EC68FC6D22/f:Global.fs" caret="289" fromTop="14" />
       <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:HomeController.fs" caret="0" fromTop="0" />
       <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:Authentication.fs" caret="224" fromTop="7" />
       <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:AccountModels.fs" caret="0" fromTop="0" />
       <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:CustomValidators.fs" caret="0" fromTop="0" />
-      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="2797" fromTop="18" />
+      <File id="DDA1E28A-6C22-459F-8FED-A1C44A7F8771/f:Program.fs" caret="758" fromTop="4" />
+      <File id="D2082633-68CA-4C7E-9CF7-7CA94CF86ACE/f:FSharpIoC.fs" caret="1028" fromTop="11" />
+      <File id="DA30BCAB-D6BD-4508-8C2A-FD6246766A29/f:FSharpCouch.fs" caret="1879" fromTop="1" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="0" fromTop="0" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="2568" fromTop="8" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="2798" fromTop="3" />
+      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="175" fromTop="4" />
+      <File id="09E1A33E-8FBB-4447-8E6C-7AB49A817808/f:ChordClient.fs" caret="696" fromTop="6" />
+      <File id="D521BDA8-6A58-47B0-ACE9-A41C1B850B3C/f:Program.fs" caret="338" fromTop="8" />
+      <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="474" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
       <File id="D521BDA8-6A58-47B0-ACE9-A41C1B850B3C/f:Program.fs" caret="412" fromTop="9" />
-      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="953" fromTop="8" />
+      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="921" fromTop="8" />
       <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="543" fromTop="8" />
-      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="988" fromTop="9" />
+      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="956" fromTop="9" />
       <File id="D521BDA8-6A58-47B0-ACE9-A41C1B850B3C/f:Program.fs" caret="412" fromTop="0" />
       <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="553" fromTop="9" />
       <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="101" fromTop="5" />
       <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="190" fromTop="9" />
-      <File id="D521BDA8-6A58-47B0-ACE9-A41C1B850B3C/f:Program.fs" caret="92" fromTop="2" />
       <File id="15C32810-20FD-411A-8084-AB069CC7B4D0/f:Program.fs" caret="297" fromTop="13" />
       <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="360" fromTop="6" />
       <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="84" fromTop="2" />
       <File id="09E1A33E-8FBB-4447-8E6C-7AB49A817808/f:ChordClient.fs" caret="298" fromTop="10" />
+      <File id="DA30BCAB-D6BD-4508-8C2A-FD6246766A29/f:FSharpCouch.fs" caret="1686" fromTop="4" />
+      <File id="D521BDA8-6A58-47B0-ACE9-A41C1B850B3C/f:Program.fs" caret="262" fromTop="5" />
+      <File id="8B642BBC-4538-45CF-933D-4D72E8CB3A31/f:Program.fs" caret="826" fromTop="8" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
