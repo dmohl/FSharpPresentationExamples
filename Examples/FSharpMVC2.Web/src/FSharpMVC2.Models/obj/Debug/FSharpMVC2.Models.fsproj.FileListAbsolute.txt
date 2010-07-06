@@ -1,0 +1,18 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.XML
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Models\obj\Debug\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Models\obj\Debug\FSharpMVC2.Models.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.XML
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Models\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Models\obj\Debug\FSharpMVC2.Models.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Models\obj\Debug\FSharpMVC2.Models.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.XML
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Models\bin\Debug\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Models\obj\Debug\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Models\obj\Debug\FSharpMVC2.Models.pdb

@@ -1,0 +1,28 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.Tests.XML
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.Tests.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.Tests.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\SpecUnit.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Models.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\obj\Debug\FSharpMVC2.Controllers.Tests.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\test\FSharpMVC2.Controllers.Tests\obj\Debug\FSharpMVC2.Controllers.Tests.pdb
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.Tests.XML
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.Tests.dll
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.Tests.pdb
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.dll
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\nunit.framework.dll
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\SpecUnit.dll
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Models.dll
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.pdb
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Controllers.xml
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Models.pdb
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\bin\Debug\FSharpMVC2.Models.xml
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\obj\Debug\FSharpMVC2.Controllers.Tests.dll
+C:\git\FSharpMVC2Starter\test\FSharpMVC2.Controllers.Tests\obj\Debug\FSharpMVC2.Controllers.Tests.pdb

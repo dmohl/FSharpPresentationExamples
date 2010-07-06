@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="D9754244-0ECB-4437-9CC6-C415D18AADED" ModuleId="WebApplication" />
+  <Module PersistentId="8644E1C7-1B8E-47DD-B090-D22BF6DB0237" ModuleId="SharpCouch" />
+  <Module PersistentId="5B22D159-A8EC-45F9-8049-F3C9A6C99CD8" ModuleId="SharpCouch_1" />
+</Modules>

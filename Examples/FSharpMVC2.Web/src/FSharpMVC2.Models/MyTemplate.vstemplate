@@ -1,0 +1,23 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>FSharpMVC2.Models</Name>
+    <Description>MVC Models in F#</Description>
+    <ProjectType>FSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>FSharpMVC2.Models</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="FSharpMVC2.Models.fsproj" File="FSharpMVC2.Models.fsproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="CustomValidators.fs">CustomValidators.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="AccountModels.fs">AccountModels.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Authentication.fs">Authentication.fs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

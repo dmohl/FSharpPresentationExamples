@@ -1,0 +1,37 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="888" fromTop="6" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="1541" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="1648" fromTop="9" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="173" fromTop="5" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="1519" fromTop="7" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="1233" fromTop="2" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="0" fromTop="0" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="486" fromTop="4" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="1260" fromTop="6" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="227" fromTop="2" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:FSharpCouch.fs" caret="489" fromTop="4" />
+      <File id="C4E3CD76-5618-421C-A187-95EB0D51B133/f:Main.fs" caret="2104" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,39 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.dll
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.xml
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.pdb
+C:\git\FSharpMVC2Starter\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.xml
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.xml
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Web.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Controllers.xml
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Core.xml
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\bin\FSharpMVC2.Models.xml
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Web\obj\Debug\FSharpMVC2.Web.pdb

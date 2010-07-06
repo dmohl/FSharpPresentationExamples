@@ -1,0 +1,1 @@
+A starter MVC2 solution with controllers and models in F#.

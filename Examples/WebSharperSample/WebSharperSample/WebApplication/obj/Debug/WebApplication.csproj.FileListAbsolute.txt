@@ -1,0 +1,30 @@
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\WebApplication.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\WebApplication.pdb
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\WebSharperProject.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.WebSharper.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.WebSharper.Formlet.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.Json.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.Generics.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.JavaScript.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\FSharp.PowerPack.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.ParserCombinators.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\WebSharperProject.pdb
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\obj\Debug\WebApplication.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\WebSharperSample\WebSharperSample\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\WebApplication.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\WebApplication.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\WebSharperProject.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.WebSharper.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.WebSharper.Formlet.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.Json.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.Generics.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.JavaScript.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\FSharp.PowerPack.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\IntelliFactory.ParserCombinators.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\bin\WebSharperProject.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\WebSharperSample\WebSharperSample\WebApplication\obj\Debug\WebApplication.pdb

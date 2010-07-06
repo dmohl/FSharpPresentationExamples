@@ -1,0 +1,61 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Web.config" caret="572" fromTop="8" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="36" fromTop="0" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="0" fromTop="0" />
+      <File id="D60E704B-7D74-41FF-98B5-E0EC68FC6D22/f:Global.fs" caret="698" fromTop="9" />
+      <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:Authentication.fs" caret="4233" fromTop="8" />
+      <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:AccountModels.fs" caret="2463" fromTop="9" />
+      <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:CustomValidators.fs" caret="2112" fromTop="10" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="4607" fromTop="10" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:HomeController.fs" caret="361" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Web.config" caret="392" fromTop="6" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Web.config" caret="572" fromTop="8" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="4661" fromTop="10" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="903" fromTop="2" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="1896" fromTop="0" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="1202" fromTop="5" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="307" fromTop="3" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="903" fromTop="8" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="903" fromTop="2" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="452" fromTop="1" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="1105" fromTop="10" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="1538" fromTop="6" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="4661" fromTop="3" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="3193" fromTop="3" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="149" fromTop="6" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:AccountController.fs" caret="3880" fromTop="10" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="26" fromTop="0" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="0" fromTop="7" />
+      <File id="1D53FAA1-798D-4560-AA93-49679CC58B3B/f:HomeController.fs" caret="78" fromTop="3" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="151" fromTop="7" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="270" fromTop="5" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="852" fromTop="4" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="1084" fromTop="8" />
+      <File id="E57AD2A7-5061-475B-A916-5F5C15C05006/f:HomeControllerTests.fs" caret="597" fromTop="8" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="270" fromTop="7" />
+      <File id="98DFF363-4EE0-48A9-B473-A9C6AFE05490/f:Global.asax" caret="36" fromTop="0" />
+      <File id="6173C6DC-1435-4A83-A5FE-51DC7E0798AC/f:CustomValidators.fs" caret="31" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

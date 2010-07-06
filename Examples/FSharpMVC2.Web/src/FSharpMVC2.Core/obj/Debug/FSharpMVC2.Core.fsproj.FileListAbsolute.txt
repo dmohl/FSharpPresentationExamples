@@ -1,0 +1,18 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.XML
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.XML
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.XML
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Core\bin\Debug\FSharpMVC2.Core.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpMVC2.Web\src\FSharpMVC2.Core\obj\Debug\FSharpMVC2.Core.pdb

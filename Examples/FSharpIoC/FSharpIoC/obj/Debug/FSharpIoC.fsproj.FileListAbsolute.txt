@@ -1,0 +1,18 @@
+c:\users\dmohl\documents\visual studio 2010\Projects\FSharpIoC\FSharpIoC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dmohl\documents\visual studio 2010\Projects\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.XML
+c:\users\dmohl\documents\visual studio 2010\Projects\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.pdb
+c:\users\dmohl\documents\visual studio 2010\Projects\FSharpIoC\FSharpIoC\obj\Debug\FSharpIoC.dll
+c:\users\dmohl\documents\visual studio 2010\Projects\FSharpIoC\FSharpIoC\obj\Debug\FSharpIoC.pdb
+C:\git\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.XML
+C:\git\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.dll
+C:\git\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.pdb
+C:\git\FSharpIoC\FSharpIoC\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpIoC\FSharpIoC\obj\Debug\FSharpIoC.dll
+C:\git\FSharpIoC\FSharpIoC\obj\Debug\FSharpIoC.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.XML
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpIoC\FSharpIoC\bin\Debug\FSharpIoC.pdb
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpIoC\FSharpIoC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpIoC\FSharpIoC\obj\Debug\FSharpIoC.dll
+C:\Users\dmohl\Documents\Presentations\5 Best Practices for F# Development\Examples\FSharpIoC\FSharpIoC\obj\Debug\FSharpIoC.pdb

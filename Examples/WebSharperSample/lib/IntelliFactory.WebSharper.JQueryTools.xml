@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>IntelliFactory.WebSharper.JQueryTools</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.Unbind(System.String)">
+<summary>
+Removes callback functions from the tool
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.OnLoad(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered after exposing takes effect
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.OnClose(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered when exposing is closed
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.OnBeforeLoad(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered before the exposing effect
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.OnBeforeClose(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered before exposing is closed
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.Load">
+<summary>
+Performs exposing
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.Load(IntelliFactory.WebSharper.JQueryEvent)">
+<summary>
+Performs exposing
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.IsLoaded">
+<summary>
+Returns true if exposing is active
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.GetMask">
+<summary>
+Returns the mask as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.GetExposed">
+<summary>
+Returns exposed elements as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.GetConf">
+<summary>
+Returns the exposing configuration
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.Close">
+<summary>
+Closes exposing
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.Close(IntelliFactory.WebSharper.JQueryEvent)">
+<summary>
+Closes exposing
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Expose.Bind``3(System.Tuple`2{System.String,IntelliFactory.WebSharper.Func{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit}},Microsoft.FSharp.Core.FSharpFunc`2{``0,Microsoft.FSharp.Core.FSharpFunc`2{``1,``2}})">
+<summary>
+Register one or more callbacks to be triggered
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Flashembed.IsSupported(IntelliFactory.WebSharper.JQueryTools.FlashembedConfiguration)">
+<summary>
+Check if the current version is supported
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Flashembed.GetVersion">
+<summary>
+Returns user&apos;s Flash version as an array
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Flashembed.GetHTML">
+<summary>
+Returns the HTML code that was used to embed this player on the client&apos;s machine
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Flashembed.GetFlashvars">
+<summary>
+Returns possible Flash object configuration (3rd argument)
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Flashembed.GetContainer">
+<summary>
+Returns the container for the Flash object as a DOM element
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Flashembed.GetConf">
+<summary>
+Returns the Flash configuration (2nd argument)
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.Unbind(System.String)">
+<summary>
+Removes callback functions from the tool
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.OnLoad(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered right after the overlay has been loaded
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.OnClose(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered after the overlay has been closed
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.OnBeforeLoad(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered before the overlay is shown
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.OnBeforeClose(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Registers a new callback function that is triggered before the overlay is closed
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.Load">
+<summary>
+Opens the overlay
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.IsOpened">
+<summary>
+Returns true if the overlay is opened
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.GetTrigger">
+<summary>
+Returns the triggering element as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.GetOverlay">
+<summary>
+Returns the overlayed element as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.GetConf">
+<summary>
+Returns the configuration for the overlay
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.GetClosers">
+<summary>
+Returns the closing element(s) as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.Close">
+<summary>
+Close the overlay
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Overlay.Bind(System.String,Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.Unit})">
+<summary>
+Register one or more callbacks to be triggered
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Unbind(System.String)">
+<summary>
+Removes callback functions from the tool
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.SetPage(System.Int32)">
+<summary>
+Seeks to the specific page
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.SeekTo(System.Int32)">
+<summary>
+Seeks to the specified index
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Reload">
+<summary>
+scrollable supports the dynamic addition and removal of scrollable elements
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.PrevPage">
+<summary>
+Scrolls one page backward
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Prev">
+<summary>
+Scrolls one item backward
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.OnSeek(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered after items have been scrolled
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.OnReload(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered when a reload()  call is made
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.OnBeforeSeek(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered before items are scrolled
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.NextPage">
+<summary>
+Scrolls one page forward
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Next">
+<summary>
+Scrolls one item forward
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.MovePage(System.Int32)">
+<summary>
+Moves a certain number of pages from the current position
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Move(System.Int32)">
+<summary>
+Moves a certain number of items from the current position
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetVisibleItems">
+<summary>
+Returns a list of items that are currently being viewed
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetSize">
+<summary>
+Returns the amount of items in the scrollable. Identical to getItems().size()
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetRoot">
+<summary>
+Returns the main scrollable element as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetPageIndex">
+<summary>
+Returns the current page index
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetPageAmount">
+<summary>
+Returns the number of pages which could depend upon the size
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetNaviButtons">
+<summary>
+Returns navigational buttons (next/prev/prevAll/nextAll) as a single jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetItems">
+<summary>
+Returns the scrollable items as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetItemWrap">
+<summary>
+Returns the parent element for the scrollable items as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetIndex">
+<summary>
+Returns the current position within the scrollable element
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetConf">
+<summary>
+Returns the configuration object for the scrollable instance
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.GetClickIndex">
+<summary>
+Returns the index number of the item that was clicked the last time
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Focus">
+<summary>
+After this call the keyboard arrow keys will control this particular scrollable instance
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.End">
+<summary>
+Moves to the end
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Click(System.Int32)">
+<summary>
+Programmatically &quot;clicks&quot; the item at the specified index
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Bind(System.String,Microsoft.FSharp.Core.Unit)">
+<summary>
+Register one or more callbacks to be triggered
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Scrollable.Begin">
+<summary>
+Moves to the beginning
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.Unbind(System.String)">
+<summary>
+Removes callback functions from the tool
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.Prev">
+<summary>
+Advances to the previous tab
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.OnClick(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered after a tab is clicked
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.OnBeforeClick(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered before a tab is clicked
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.Next">
+<summary>
+Advances to the next tab
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.GetTabs">
+<summary>
+Returns the tabs as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.GetPanes">
+<summary>
+Returns the panes as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.GetIndex">
+<summary>
+Returns the current tab index number
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.GetCurrentTab">
+<summary>
+Returns the current tab as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.GetCurrentPane">
+<summary>
+Returns current pane as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.GetConf">
+<summary>
+Returns the configuration object for the tabs instance
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.Click(System.Int32)">
+<summary>
+Activates the tab specified in the argument
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tabs.Bind(System.String,Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Register one or more callbacks to be triggered
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.Unbind(System.String)">
+<summary>
+Removes callback functions from the tool
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.Show">
+<summary>
+Shows the tooltip
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.OnShow(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered after the tooltip is shown
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.OnHide(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered after the tooltip is hidden
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.OnBeforeShow(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered before the tooltip is shown
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.OnBeforeHide(Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Registers a new callback function that is triggered before the tooltip is hidden
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.IsShow">
+<summary>
+Returns true if the tooltip is visible
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.Hide">
+<summary>
+Hides the tooltip
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.GetTrigger">
+<summary>
+Returns the triggering element as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.GetTip">
+<summary>
+Returns the tooltip as a jQuery object
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.GetConf">
+<summary>
+Returns the tooltip configuration
+</summary>
+</member>
+<member name="M:IntelliFactory.WebSharper.JQueryTools.Tooltip.Bind(System.String,Microsoft.FSharp.Core.FSharpFunc`2{IntelliFactory.WebSharper.JQueryEvent,Microsoft.FSharp.Core.FSharpFunc`2{System.Int32,Microsoft.FSharp.Core.Unit}})">
+<summary>
+Register one or more callbacks to be triggered
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:IntelliFactory.WebSharper.JQueryTools.Dependencies.Utils">
+
+</member>
+<member name="T:IntelliFactory.WebSharper.JQueryTools.Dependencies">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:IntelliFactory.WebSharper.JQueryTools.Utils">
+
+</member>
+</members>
+</doc>
